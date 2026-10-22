@@ -1,0 +1,4 @@
+Adafruit CircuitPython 10.2.1 on 2026-05-13; Adafruit Feather RP2350 with rp2350a
+Board ID:adafruit_feather_rp2350
+UID:1301B356D1391576
+boot.py output:
